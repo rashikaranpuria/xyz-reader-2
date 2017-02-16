@@ -53,7 +53,7 @@
             android:maxLines="1"
             android:singleLine="true"
             android:ellipsize="end"
-            android:textSize="@dimen/text_14"
+            android:textSize="@dimen/text_12"
             tools:text="something of probable mportance woah"/>
     </LinearLayout>
 
