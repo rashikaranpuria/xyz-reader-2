@@ -8120,7 +8120,7 @@
                     "startOffset": 150248,
                     "endLine": 2128,
                     "endColumn": 12,
-                    "endOffset": 150636
+                    "endOffset": 150651
                 },
                 "from": {
                     "file": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/src/main/res/values/styles.xml",
@@ -8130,7 +8130,7 @@
                         "startOffset": 1659,
                         "endLine": 43,
                         "endColumn": 12,
-                        "endOffset": 2047
+                        "endOffset": 2062
                     }
                 }
             }
