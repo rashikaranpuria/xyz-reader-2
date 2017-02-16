@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
+        "source": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
     },
     {
-        "merged": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
-        "source": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
+        "merged": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
     }
 ]
