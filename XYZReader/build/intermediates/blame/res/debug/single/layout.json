@@ -1,15 +1,15 @@
 [
     {
-        "merged": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item.xml"
     },
     {
         "merged": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
         "source": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
-        "source": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item.xml"
+        "merged": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/home/rashi/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/res/merged/debug/layout/fragment_article_detail.xml",

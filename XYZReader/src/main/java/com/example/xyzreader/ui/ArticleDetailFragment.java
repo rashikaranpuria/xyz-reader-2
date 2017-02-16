@@ -14,6 +14,7 @@ import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v4.app.ShareCompat;
 import android.support.v4.widget.NestedScrollView;
 import android.support.v7.graphics.Palette;
+import android.support.v7.widget.Toolbar;
 import android.text.Html;
 import android.text.format.DateUtils;
 import android.text.method.LinkMovementMethod;
@@ -133,7 +134,6 @@ public class ArticleDetailFragment extends Fragment implements
 
         collapsingToolbarLayout.setCollapsedTitleTextAppearance(R.style.appBarCollapsed);
         collapsingToolbarLayout.setExpandedTitleTextAppearance(R.style.appBarExpanded);
-
 
         mStatusBarColorDrawable = new ColorDrawable(0);
 

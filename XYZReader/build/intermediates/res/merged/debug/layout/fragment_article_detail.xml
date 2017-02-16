@@ -30,7 +30,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
                 app:layout_collapseMode="pin"
-                android:fitsSystemWindows="true"/>
+                android:fitsSystemWindows="true"
+                android:contentInsetStart="56dp"
+                app:contentInsetStart="56dp" />
 
         </android.support.design.widget.CollapsingToolbarLayout>
 
@@ -49,8 +51,7 @@
             android:layout_height="wrap_content"
             android:maxWidth="@dimen/detail_card_max_width"
             android:background="#fff"
-            android:elevation="2dp"
-            android:fitsSystemWindows="true">
+            android:elevation="2dp">
 
             <LinearLayout
                 android:id="@+id/meta_bar"
@@ -62,8 +63,7 @@
                 android:paddingRight="@dimen/detail_inner_horiz_margin"
                 android:paddingTop="@dimen/detail_metabar_vert_padding"
                 android:paddingBottom="@dimen/detail_metabar_vert_padding"
-                android:layout_marginBottom="@dimen/detail_metabar_vert_padding"
-                android:fitsSystemWindows="true">
+                android:layout_marginBottom="@dimen/detail_metabar_vert_padding">
 
                 <TextView
                     android:id="@+id/article_byline"
