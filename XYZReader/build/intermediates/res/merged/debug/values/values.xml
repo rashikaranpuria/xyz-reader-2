@@ -2115,4 +2115,16 @@
         <item name="passwordToggleDrawable">@drawable/design_ic_visibility</item>
         <item name="passwordToggleTint">@color/design_tint_password_toggle</item>
     </style>
+    <style name="appBarCollapsed" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="appBarExpanded" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">@dimen/detail_title_text_size</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:lineSpacingMultiplier">0.9</item>
+    </style>
 </resources>

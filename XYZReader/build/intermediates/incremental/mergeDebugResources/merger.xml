@@ -1813,6 +1813,16 @@
         <item name="android:textSize">16sp</item>
         <item name="colorButtonNormal">@color/colorAccent</item>
         <item name="android:windowBackground">@color/grey_50</item>
+    </style><style name="appBarExpanded" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">@dimen/detail_title_text_size</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:lineSpacingMultiplier">0.9</item>
+    </style><style name="appBarCollapsed" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
     </style><style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style></file><file path="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/src/main/res/values/dimens.xml" qualifiers=""><item format="float" name="detail_body_line_spacing_multiplier" type="fraction">1.25</item><dimen name="text_10">10sp</dimen><dimen name="text_12">12sp</dimen><dimen name="fab_elevation">2dp</dimen><dimen name="fab_press_translation_z">6dp</dimen><dimen name="text_14">14sp</dimen><dimen name="fab_margin">24dp</dimen><dimen name="text_16">16sp</dimen><dimen name="detail_title_text_size">32sp</dimen><dimen name="detail_body_text_size">22sp</dimen><dimen name="text_18">18sp</dimen></file><file path="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/src/main/res/values/macro_layout.xml" qualifiers=""><dimen name="detail_body_bottom_margin">88dp</dimen><dimen name="detail_photo_height">304dp</dimen><integer name="list_column_count">2</integer><dimen name="detail_card_top_margin">@dimen/detail_photo_height</dimen><dimen name="detail_metabar_vert_padding">16dp</dimen><dimen name="detail_metabar_title_bottom_padding">4dp</dimen><dimen name="detail_body_top_margin">16dp</dimen><dimen name="list_side_margin">4dp</dimen><dimen name="detail_inner_horiz_margin">16dp</dimen><dimen name="detail_card_max_width">10000dp</dimen><bool name="detail_is_card">false</bool><dimen name="list_toolbar_side_margin">0dp</dimen></file><file path="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="DrawInsetsFrameLayout">
