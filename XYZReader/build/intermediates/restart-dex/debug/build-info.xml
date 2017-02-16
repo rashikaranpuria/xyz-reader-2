@@ -5,8 +5,9 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="54195968836727"
-    token="6036288010418609495" >
+    timestamp="66754141161281"
+    token="6036288010418609495"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
@@ -21,13 +22,30 @@
         name="verifier"
         duration="0" />
 
+    <artifact
+        location="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
     <build
-        timestamp="54078962867786"
+        timestamp="66090497332475"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="54195968836727" />
+    <build
+        timestamp="66480112413617"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="66754141161281"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
 
 </instant-run>

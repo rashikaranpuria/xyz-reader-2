@@ -3,24 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_20ff706b6b3cd1d337fd0f27b8c03be53a29fd98/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_20e57415d09e7121b28ab530f04f27efae380e2d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -70,7 +52,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="36c211955f7f794085c2773eaf00002f53f15a36">
+        sha1="35c01beca6b34a7a65be8cd5542da762d0ebdcdd">
         <dex dex="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_46b918d31ac575b197c0a0b469110c97e1832676/classes.dex" />
     </item>
     <item
@@ -84,30 +66,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/abc/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_3891695dc6fcce9183921beca577c2589611681f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="dfdf155978dc552223f3fad1889f97c556e517b5">
+        sha1="24c1e58367ac650b09e628e17c6aadfa59ddca7c">
         <dex dex="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4180c713ba4eacef7092d54e7ef11b7b310c7662/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
-        <dex dex="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-22.0.0_c61d0869cd09b06c8bf074f4a6b2c7697d71cc61/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -117,6 +81,42 @@
         revision="22.0.1"
         sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
         <dex dex="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_1137e84135486cd365459e503414741a193e4c8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_20ff706b6b3cd1d337fd0f27b8c03be53a29fd98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_20e57415d09e7121b28ab530f04f27efae380e2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abc/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_3891695dc6fcce9183921beca577c2589611681f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-22.0.0_c61d0869cd09b06c8bf074f4a6b2c7697d71cc61/classes.dex" />
     </item>
     <item
         is-multidex="true"
