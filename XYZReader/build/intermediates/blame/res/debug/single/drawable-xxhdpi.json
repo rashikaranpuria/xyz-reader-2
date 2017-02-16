@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
+        "source": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
+        "source": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/src/main/res/drawable-xxhdpi/ic_share.png"
+    }
+]
