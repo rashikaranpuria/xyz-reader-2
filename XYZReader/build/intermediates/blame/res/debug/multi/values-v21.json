@@ -11,13 +11,13 @@
                     "endOffset": 141
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 286,
+                        "startOffset": 55,
                         "endColumn": 90,
-                        "endOffset": 372
+                        "endOffset": 141
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 244
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 377,
+                        "startOffset": 146,
                         "endColumn": 102,
-                        "endOffset": 475
+                        "endOffset": 244
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 347
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 480,
+                        "startOffset": 249,
                         "endColumn": 102,
-                        "endOffset": 578
+                        "endOffset": 347
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 452
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 583,
+                        "startOffset": 352,
                         "endColumn": 104,
-                        "endOffset": 683
+                        "endOffset": 452
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 559
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 688,
+                        "startOffset": 457,
                         "endColumn": 106,
-                        "endOffset": 790
+                        "endOffset": 559
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 668
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 795,
+                        "startOffset": 564,
                         "endColumn": 108,
-                        "endOffset": 899
+                        "endOffset": 668
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 777
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 904,
+                        "startOffset": 673,
                         "endColumn": 108,
-                        "endOffset": 1008
+                        "endOffset": 777
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 886
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1013,
+                        "startOffset": 782,
                         "endColumn": 108,
-                        "endOffset": 1117
+                        "endOffset": 886
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 995
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1122,
+                        "startOffset": 891,
                         "endColumn": 108,
-                        "endOffset": 1226
+                        "endOffset": 995
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 1104
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1231,
+                        "startOffset": 1000,
                         "endColumn": 108,
-                        "endOffset": 1335
+                        "endOffset": 1104
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 1211
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1340,
+                        "startOffset": 1109,
                         "endColumn": 106,
-                        "endOffset": 1442
+                        "endOffset": 1211
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 1314
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1447,
+                        "startOffset": 1216,
                         "endColumn": 102,
-                        "endOffset": 1545
+                        "endOffset": 1314
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 1433
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1550,
+                        "startOffset": 1319,
                         "endColumn": 118,
-                        "endOffset": 1664
+                        "endOffset": 1433
                     }
                 }
             },
@@ -259,14 +259,14 @@
                     "endOffset": 1588
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1895,
-                        "endLine": 20,
+                        "startOffset": 1438,
+                        "endLine": 16,
                         "endColumn": 12,
-                        "endOffset": 2045
+                        "endOffset": 1588
                     }
                 }
             },
@@ -280,14 +280,14 @@
                     "endOffset": 1743
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 2050,
-                        "endLine": 22,
+                        "startOffset": 1593,
+                        "endLine": 18,
                         "endColumn": 12,
-                        "endOffset": 2200
+                        "endOffset": 1743
                     }
                 }
             },
@@ -300,13 +300,13 @@
                     "endOffset": 1848
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 25,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2436,
+                        "startOffset": 1748,
                         "endColumn": 104,
-                        "endOffset": 2536
+                        "endOffset": 1848
                     }
                 }
             },
@@ -319,13 +319,13 @@
                     "endOffset": 1969
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 26,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2541,
+                        "startOffset": 1853,
                         "endColumn": 120,
-                        "endOffset": 2657
+                        "endOffset": 1969
                     }
                 }
             },
@@ -338,13 +338,13 @@
                     "endOffset": 2070
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 27,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2662,
+                        "startOffset": 1974,
                         "endColumn": 100,
-                        "endOffset": 2758
+                        "endOffset": 2070
                     }
                 }
             },
@@ -358,14 +358,14 @@
                     "endOffset": 2217
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 30,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 2989,
-                        "endLine": 31,
+                        "startOffset": 2075,
+                        "endLine": 23,
                         "endColumn": 12,
-                        "endOffset": 3131
+                        "endOffset": 2217
                     }
                 }
             },
@@ -379,14 +379,14 @@
                     "endOffset": 2358
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 32,
+                        "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 3136,
-                        "endLine": 33,
+                        "startOffset": 2222,
+                        "endLine": 25,
                         "endColumn": 12,
-                        "endOffset": 3272
+                        "endOffset": 2358
                     }
                 }
             },
@@ -399,13 +399,13 @@
                     "endOffset": 2461
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 36,
+                        "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 3508,
+                        "startOffset": 2363,
                         "endColumn": 102,
-                        "endOffset": 3606
+                        "endOffset": 2461
                     }
                 }
             },
@@ -418,13 +418,13 @@
                     "endOffset": 2580
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 37,
+                        "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 3611,
+                        "startOffset": 2466,
                         "endColumn": 118,
-                        "endOffset": 3725
+                        "endOffset": 2580
                     }
                 }
             },
@@ -437,13 +437,13 @@
                     "endOffset": 2687
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 38,
+                        "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 3730,
+                        "startOffset": 2585,
                         "endColumn": 106,
-                        "endOffset": 3832
+                        "endOffset": 2687
                     }
                 }
             },
@@ -456,13 +456,13 @@
                     "endOffset": 2790
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 39,
+                        "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 3837,
+                        "startOffset": 2692,
                         "endColumn": 102,
-                        "endOffset": 3935
+                        "endOffset": 2790
                     }
                 }
             },
@@ -473,17 +473,17 @@
                     "startOffset": 2795,
                     "endLine": 31,
                     "endColumn": 12,
-                    "endOffset": 2937
+                    "endOffset": 2945
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 42,
+                        "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 4166,
-                        "endLine": 43,
+                        "startOffset": 2795,
+                        "endLine": 31,
                         "endColumn": 12,
-                        "endOffset": 4308
+                        "endOffset": 2945
                     }
                 }
             },
@@ -491,20 +491,20 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2942,
+                    "startOffset": 2950,
                     "endLine": 33,
                     "endColumn": 12,
-                    "endOffset": 3092
+                    "endOffset": 3116
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 44,
+                        "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 4313,
-                        "endLine": 45,
+                        "startOffset": 2950,
+                        "endLine": 33,
                         "endColumn": 12,
-                        "endOffset": 4463
+                        "endOffset": 3116
                     }
                 }
             },
@@ -512,20 +512,20 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 3097,
+                    "startOffset": 3121,
                     "endLine": 35,
                     "endColumn": 12,
-                    "endOffset": 3263
+                    "endOffset": 3265
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 46,
+                        "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 4468,
-                        "endLine": 47,
+                        "startOffset": 3121,
+                        "endLine": 35,
                         "endColumn": 12,
-                        "endOffset": 4634
+                        "endOffset": 3265
                     }
                 }
             },
@@ -533,20 +533,20 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 3268,
+                    "startOffset": 3270,
                     "endLine": 37,
                     "endColumn": 12,
-                    "endOffset": 3412
+                    "endOffset": 3430
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 48,
+                        "startLine": 36,
                         "startColumn": 4,
-                        "startOffset": 4639,
-                        "endLine": 49,
+                        "startOffset": 3270,
+                        "endLine": 37,
                         "endColumn": 12,
-                        "endOffset": 4783
+                        "endOffset": 3430
                     }
                 }
             },
@@ -554,20 +554,20 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 3417,
+                    "startOffset": 3435,
                     "endLine": 39,
                     "endColumn": 12,
-                    "endOffset": 3577
+                    "endOffset": 3587
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 50,
+                        "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 4788,
-                        "endLine": 51,
+                        "startOffset": 3435,
+                        "endLine": 39,
                         "endColumn": 12,
-                        "endOffset": 4948
+                        "endOffset": 3587
                     }
                 }
             },
@@ -575,20 +575,20 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3582,
+                    "startOffset": 3592,
                     "endLine": 41,
                     "endColumn": 12,
-                    "endOffset": 3734
+                    "endOffset": 3738
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 52,
+                        "startLine": 40,
                         "startColumn": 4,
-                        "startOffset": 4953,
-                        "endLine": 53,
+                        "startOffset": 3592,
+                        "endLine": 41,
                         "endColumn": 12,
-                        "endOffset": 5105
+                        "endOffset": 3738
                     }
                 }
             },
@@ -596,62 +596,39 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 3739,
-                    "endLine": 43,
-                    "endColumn": 12,
-                    "endOffset": 3885
+                    "startOffset": 3743,
+                    "endColumn": 118,
+                    "endOffset": 3857
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 54,
+                        "startLine": 42,
                         "startColumn": 4,
-                        "startOffset": 5110,
-                        "endLine": 55,
-                        "endColumn": 12,
-                        "endOffset": 5256
+                        "startOffset": 3743,
+                        "endColumn": 118,
+                        "endOffset": 3857
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 44,
+                    "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 3890,
-                    "endLine": 45,
-                    "endColumn": 12,
-                    "endOffset": 4034
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 56,
-                        "startColumn": 4,
-                        "startOffset": 5261,
-                        "endLine": 57,
-                        "endColumn": 12,
-                        "endOffset": 5405
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 46,
-                    "startColumn": 4,
-                    "startOffset": 4039,
+                    "startOffset": 3862,
                     "endLine": 47,
                     "endColumn": 12,
-                    "endOffset": 4183
+                    "endOffset": 4229
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 58,
+                        "startLine": 43,
                         "startColumn": 4,
-                        "startOffset": 5410,
-                        "endLine": 59,
+                        "startOffset": 3862,
+                        "endLine": 47,
                         "endColumn": 12,
-                        "endOffset": 5554
+                        "endOffset": 4229
                     }
                 }
             },
@@ -659,37 +636,20 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 4188,
-                    "endColumn": 111,
-                    "endOffset": 4295
+                    "startOffset": 4234,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 4378
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 62,
+                        "startLine": 48,
                         "startColumn": 4,
-                        "startOffset": 5790,
-                        "endColumn": 111,
-                        "endOffset": 5897
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 49,
-                    "startColumn": 4,
-                    "startOffset": 4300,
-                    "endColumn": 146,
-                    "endOffset": 4442
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 65,
-                        "startColumn": 4,
-                        "startOffset": 6128,
-                        "endColumn": 146,
-                        "endOffset": 6270
+                        "startOffset": 4234,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 4378
                     }
                 }
             },
@@ -697,20 +657,20 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 4447,
+                    "startOffset": 4383,
                     "endLine": 51,
                     "endColumn": 12,
-                    "endOffset": 4595
+                    "endOffset": 4527
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 66,
+                        "startLine": 50,
                         "startColumn": 4,
-                        "startOffset": 6275,
-                        "endLine": 67,
+                        "startOffset": 4383,
+                        "endLine": 51,
                         "endColumn": 12,
-                        "endOffset": 6423
+                        "endOffset": 4527
                     }
                 }
             },
@@ -718,20 +678,37 @@
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 4600,
-                    "endLine": 53,
-                    "endColumn": 12,
-                    "endOffset": 4742
+                    "startOffset": 4532,
+                    "endColumn": 111,
+                    "endOffset": 4639
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 68,
+                        "startLine": 52,
                         "startColumn": 4,
-                        "startOffset": 6428,
-                        "endLine": 69,
-                        "endColumn": 12,
-                        "endOffset": 6570
+                        "startOffset": 4532,
+                        "endColumn": 111,
+                        "endOffset": 4639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4644,
+                    "endColumn": 146,
+                    "endOffset": 4786
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4644,
+                        "endColumn": 146,
+                        "endOffset": 4786
                     }
                 }
             },
@@ -739,37 +716,20 @@
                 "to": {
                     "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 4747,
-                    "endColumn": 74,
-                    "endOffset": 4817
+                    "startOffset": 4791,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 4939
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 72,
+                        "startLine": 54,
                         "startColumn": 4,
-                        "startOffset": 6801,
-                        "endColumn": 74,
-                        "endOffset": 6871
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 55,
-                    "startColumn": 4,
-                    "startOffset": 4822,
-                    "endColumn": 88,
-                    "endOffset": 4906
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 73,
-                        "startColumn": 4,
-                        "startOffset": 6876,
-                        "endColumn": 88,
-                        "endOffset": 6960
+                        "startOffset": 4791,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4939
                     }
                 }
             },
@@ -777,37 +737,20 @@
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 4911,
-                    "endColumn": 86,
-                    "endOffset": 4993
+                    "startOffset": 4944,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 5086
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 74,
+                        "startLine": 56,
                         "startColumn": 4,
-                        "startOffset": 6965,
-                        "endColumn": 86,
-                        "endOffset": 7047
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 57,
-                    "startColumn": 4,
-                    "startOffset": 4998,
-                    "endColumn": 100,
-                    "endOffset": 5094
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 75,
-                        "startColumn": 4,
-                        "startOffset": 7052,
-                        "endColumn": 100,
-                        "endOffset": 7148
+                        "startOffset": 4944,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 5086
                     }
                 }
             },
@@ -815,20 +758,75 @@
                 "to": {
                     "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 5099,
-                    "endLine": 61,
-                    "endColumn": 12,
-                    "endOffset": 5359
+                    "startOffset": 5091,
+                    "endColumn": 74,
+                    "endOffset": 5161
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 76,
+                        "startLine": 58,
                         "startColumn": 4,
-                        "startOffset": 7153,
-                        "endLine": 79,
-                        "endColumn": 12,
-                        "endOffset": 7413
+                        "startOffset": 5091,
+                        "endColumn": 74,
+                        "endOffset": 5161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5166,
+                    "endColumn": 88,
+                    "endOffset": 5250
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 5166,
+                        "endColumn": 88,
+                        "endOffset": 5250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5255,
+                    "endColumn": 86,
+                    "endOffset": 5337
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 5255,
+                        "endColumn": 86,
+                        "endOffset": 5337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5342,
+                    "endColumn": 100,
+                    "endOffset": 5438
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5342,
+                        "endColumn": 100,
+                        "endOffset": 5438
                     }
                 }
             },
@@ -836,146 +834,607 @@
                 "to": {
                     "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 5364,
-                    "endLine": 67,
-                    "endColumn": 12,
-                    "endOffset": 5723
+                    "startOffset": 5443,
+                    "endColumn": 102,
+                    "endOffset": 5541
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 80,
+                        "startLine": 62,
                         "startColumn": 4,
-                        "startOffset": 7418,
-                        "endLine": 85,
-                        "endColumn": 12,
-                        "endOffset": 7777
+                        "startOffset": 5443,
+                        "endColumn": 102,
+                        "endOffset": 5541
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 68,
+                    "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 5728,
-                    "endLine": 76,
+                    "startOffset": 5546,
+                    "endLine": 106,
                     "endColumn": 12,
-                    "endOffset": 6162
+                    "endOffset": 8609
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 86,
+                        "startLine": 63,
                         "startColumn": 4,
-                        "startOffset": 7782,
-                        "endLine": 94,
+                        "startOffset": 5546,
+                        "endLine": 106,
                         "endColumn": 12,
-                        "endOffset": 8216
+                        "endOffset": 8609
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 77,
+                    "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 6167,
-                    "endLine": 86,
+                    "startOffset": 8614,
+                    "endLine": 109,
                     "endColumn": 12,
-                    "endOffset": 6699
+                    "endOffset": 8795
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 95,
+                        "startLine": 107,
                         "startColumn": 4,
-                        "startOffset": 8221,
-                        "endLine": 104,
+                        "startOffset": 8614,
+                        "endLine": 109,
                         "endColumn": 12,
-                        "endOffset": 8753
+                        "endOffset": 8795
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 87,
+                    "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 6704,
-                    "endLine": 95,
+                    "startOffset": 8800,
+                    "endLine": 153,
                     "endColumn": 12,
-                    "endOffset": 7140
+                    "endOffset": 11875
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 105,
+                        "startLine": 110,
                         "startColumn": 4,
-                        "startOffset": 8758,
-                        "endLine": 113,
+                        "startOffset": 8800,
+                        "endLine": 153,
                         "endColumn": 12,
-                        "endOffset": 9194
+                        "endOffset": 11875
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 96,
+                    "startLine": 154,
                     "startColumn": 4,
-                    "startOffset": 7145,
-                    "endLine": 131,
+                    "startOffset": 11880,
+                    "endLine": 156,
                     "endColumn": 12,
-                    "endOffset": 9712
+                    "endOffset": 12073
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 114,
+                        "startLine": 154,
                         "startColumn": 4,
-                        "startOffset": 9199,
-                        "endLine": 149,
+                        "startOffset": 11880,
+                        "endLine": 156,
                         "endColumn": 12,
-                        "endOffset": 11766
+                        "endOffset": 12073
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 132,
+                    "startLine": 157,
                     "startColumn": 4,
-                    "startOffset": 9717,
-                    "endLine": 167,
+                    "startOffset": 12078,
+                    "endLine": 159,
                     "endColumn": 12,
-                    "endOffset": 12299
+                    "endOffset": 12273
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 150,
+                        "startLine": 157,
                         "startColumn": 4,
-                        "startOffset": 11771,
-                        "endLine": 185,
+                        "startOffset": 12078,
+                        "endLine": 159,
                         "endColumn": 12,
-                        "endOffset": 14353
+                        "endOffset": 12273
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 168,
+                    "startLine": 160,
                     "startColumn": 4,
-                    "startOffset": 12304,
-                    "endLine": 203,
+                    "startOffset": 12278,
+                    "endLine": 161,
                     "endColumn": 12,
-                    "endOffset": 14883
+                    "endOffset": 12396
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 186,
+                        "startLine": 160,
                         "startColumn": 4,
-                        "startOffset": 14358,
-                        "endLine": 221,
+                        "startOffset": 12278,
+                        "endLine": 161,
                         "endColumn": 12,
-                        "endOffset": 16937
+                        "endOffset": 12396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 12401,
+                    "endLine": 163,
+                    "endColumn": 12,
+                    "endOffset": 12519
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 12401,
+                        "endLine": 163,
+                        "endColumn": 12,
+                        "endOffset": 12519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 12524,
+                    "endLine": 165,
+                    "endColumn": 12,
+                    "endOffset": 12632
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 12524,
+                        "endLine": 165,
+                        "endColumn": 12,
+                        "endOffset": 12632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 12637,
+                    "endLine": 168,
+                    "endColumn": 12,
+                    "endOffset": 12815
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 12637,
+                        "endLine": 168,
+                        "endColumn": 12,
+                        "endOffset": 12815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 12820,
+                    "endLine": 170,
+                    "endColumn": 12,
+                    "endOffset": 12946
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 12820,
+                        "endLine": 170,
+                        "endColumn": 12,
+                        "endOffset": 12946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 12951,
+                    "endLine": 173,
+                    "endColumn": 12,
+                    "endOffset": 13147
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 12951,
+                        "endLine": 173,
+                        "endColumn": 12,
+                        "endOffset": 13147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 13152,
+                    "endColumn": 88,
+                    "endOffset": 13236
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 13152,
+                        "endColumn": 88,
+                        "endOffset": 13236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 13241,
+                    "endColumn": 110,
+                    "endOffset": 13347
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 13241,
+                        "endColumn": 110,
+                        "endOffset": 13347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 13352,
+                    "endLine": 178,
+                    "endColumn": 12,
+                    "endOffset": 13580
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 13352,
+                        "endLine": 178,
+                        "endColumn": 12,
+                        "endOffset": 13580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 13585,
+                    "endColumn": 100,
+                    "endOffset": 13681
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 13585,
+                        "endColumn": 100,
+                        "endOffset": 13681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 13686,
+                    "endColumn": 94,
+                    "endOffset": 13776
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 13686,
+                        "endColumn": 94,
+                        "endOffset": 13776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 13781,
+                    "endColumn": 122,
+                    "endOffset": 13899
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 13781,
+                        "endColumn": 122,
+                        "endOffset": 13899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 13904,
+                    "endColumn": 128,
+                    "endOffset": 14028
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 13904,
+                        "endColumn": 128,
+                        "endOffset": 14028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 14033,
+                    "endColumn": 116,
+                    "endOffset": 14145
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 14033,
+                        "endColumn": 116,
+                        "endOffset": 14145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 14150,
+                    "endLine": 186,
+                    "endColumn": 12,
+                    "endOffset": 14322
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 14150,
+                        "endLine": 186,
+                        "endColumn": 12,
+                        "endOffset": 14322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 14327,
+                    "endColumn": 98,
+                    "endOffset": 14421
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 14327,
+                        "endColumn": 98,
+                        "endOffset": 14421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 14426,
+                    "endLine": 189,
+                    "endColumn": 12,
+                    "endOffset": 14556
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 14426,
+                        "endLine": 189,
+                        "endColumn": 12,
+                        "endOffset": 14556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 14561,
+                    "endLine": 191,
+                    "endColumn": 12,
+                    "endOffset": 14699
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 14561,
+                        "endLine": 191,
+                        "endColumn": 12,
+                        "endOffset": 14699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 14704,
+                    "endLine": 193,
+                    "endColumn": 12,
+                    "endOffset": 14834
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 14704,
+                        "endLine": 193,
+                        "endColumn": 12,
+                        "endOffset": 14834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 14839,
+                    "endLine": 195,
+                    "endColumn": 12,
+                    "endOffset": 14953
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 14839,
+                        "endLine": 195,
+                        "endColumn": 12,
+                        "endOffset": 14953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 14958,
+                    "endLine": 199,
+                    "endColumn": 12,
+                    "endOffset": 15154
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 14958,
+                        "endLine": 199,
+                        "endColumn": 12,
+                        "endOffset": 15154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 15159,
+                    "endLine": 201,
+                    "endColumn": 12,
+                    "endOffset": 15273
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 15159,
+                        "endLine": 201,
+                        "endColumn": 12,
+                        "endOffset": 15273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 15278,
+                    "endColumn": 92,
+                    "endOffset": 15366
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 15278,
+                        "endColumn": 92,
+                        "endOffset": 15366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 15371,
+                    "endColumn": 110,
+                    "endOffset": 15477
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 15371,
+                        "endColumn": 110,
+                        "endOffset": 15477
                     }
                 }
             },
@@ -983,144 +1442,262 @@
                 "to": {
                     "startLine": 204,
                     "startColumn": 4,
-                    "startOffset": 14888,
-                    "endLine": 239,
-                    "endColumn": 12,
-                    "endOffset": 17482
+                    "startOffset": 15482,
+                    "endColumn": 55,
+                    "endOffset": 15533
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 222,
+                        "startLine": 204,
                         "startColumn": 4,
-                        "startOffset": 16942,
-                        "endLine": 257,
-                        "endColumn": 12,
-                        "endOffset": 19536
+                        "startOffset": 15482,
+                        "endColumn": 55,
+                        "endOffset": 15533
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 240,
+                    "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 17487,
-                    "endLine": 241,
+                    "startOffset": 15538,
+                    "endLine": 206,
                     "endColumn": 12,
-                    "endOffset": 17605
+                    "endOffset": 15640
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 260,
+                        "startLine": 205,
                         "startColumn": 4,
-                        "startOffset": 19767,
-                        "endLine": 261,
+                        "startOffset": 15538,
+                        "endLine": 206,
                         "endColumn": 12,
-                        "endOffset": 19885
+                        "endOffset": 15640
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 242,
+                    "startLine": 207,
                     "startColumn": 4,
-                    "startOffset": 17610,
-                    "endLine": 243,
+                    "startOffset": 15645,
+                    "endLine": 210,
                     "endColumn": 12,
-                    "endOffset": 17728
+                    "endOffset": 15835
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 262,
+                        "startLine": 207,
                         "startColumn": 4,
-                        "startOffset": 19890,
-                        "endLine": 263,
+                        "startOffset": 15645,
+                        "endLine": 210,
                         "endColumn": 12,
-                        "endOffset": 20008
+                        "endOffset": 15835
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 244,
+                    "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 17733,
-                    "endLine": 245,
+                    "startOffset": 15840,
+                    "endLine": 212,
                     "endColumn": 12,
-                    "endOffset": 17841
+                    "endOffset": 15946
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 264,
+                        "startLine": 211,
                         "startColumn": 4,
-                        "startOffset": 20013,
-                        "endLine": 265,
+                        "startOffset": 15840,
+                        "endLine": 212,
                         "endColumn": 12,
-                        "endOffset": 20121
+                        "endOffset": 15946
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 246,
+                    "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 17846,
-                    "endLine": 247,
+                    "startOffset": 15951,
+                    "endLine": 214,
                     "endColumn": 12,
-                    "endOffset": 17974
+                    "endOffset": 16079
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 266,
+                        "startLine": 213,
                         "startColumn": 4,
-                        "startOffset": 20126,
-                        "endLine": 267,
+                        "startOffset": 15951,
+                        "endLine": 214,
                         "endColumn": 12,
-                        "endOffset": 20254
+                        "endOffset": 16079
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 248,
+                    "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 17979,
-                    "endLine": 249,
-                    "endColumn": 12,
-                    "endOffset": 18105
+                    "startOffset": 16084,
+                    "endColumn": 94,
+                    "endOffset": 16174
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 268,
+                        "startLine": 215,
                         "startColumn": 4,
-                        "startOffset": 20259,
-                        "endLine": 269,
-                        "endColumn": 12,
-                        "endOffset": 20385
+                        "startOffset": 16084,
+                        "endColumn": 94,
+                        "endOffset": 16174
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 250,
+                    "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 18110,
+                    "startOffset": 16179,
+                    "endColumn": 90,
+                    "endOffset": 16265
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 16179,
+                        "endColumn": 90,
+                        "endOffset": 16265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 16270,
+                    "endColumn": 90,
+                    "endOffset": 16356
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 16270,
+                        "endColumn": 90,
+                        "endOffset": 16356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 16361,
                     "endColumn": 116,
-                    "endOffset": 18222
+                    "endOffset": 16473
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 270,
+                        "startLine": 218,
                         "startColumn": 4,
-                        "startOffset": 20390,
+                        "startOffset": 16361,
                         "endColumn": 116,
-                        "endOffset": 20502
+                        "endOffset": 16473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 16478,
+                    "endLine": 220,
+                    "endColumn": 12,
+                    "endOffset": 16612
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 16478,
+                        "endLine": 220,
+                        "endColumn": 12,
+                        "endOffset": 16612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 16617,
+                    "endLine": 230,
+                    "endColumn": 12,
+                    "endOffset": 17125
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 16617,
+                        "endLine": 230,
+                        "endColumn": 12,
+                        "endOffset": 17125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 17130,
+                    "endLine": 240,
+                    "endColumn": 12,
+                    "endOffset": 17650
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 17130,
+                        "endLine": 240,
+                        "endColumn": 12,
+                        "endOffset": 17650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 17655,
+                    "endLine": 250,
+                    "endColumn": 12,
+                    "endOffset": 18330
+                },
+                "from": {
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 17655,
+                        "endLine": 250,
+                        "endColumn": 12,
+                        "endOffset": 18330
                     }
                 }
             },
@@ -1128,18 +1705,18 @@
                 "to": {
                     "startLine": 251,
                     "startColumn": 4,
-                    "startOffset": 18227,
-                    "endColumn": 88,
-                    "endOffset": 18311
+                    "startOffset": 18335,
+                    "endColumn": 56,
+                    "endOffset": 18387
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 271,
+                        "startLine": 251,
                         "startColumn": 4,
-                        "startOffset": 20507,
-                        "endColumn": 88,
-                        "endOffset": 20591
+                        "startOffset": 18335,
+                        "endColumn": 56,
+                        "endOffset": 18387
                     }
                 }
             },
@@ -1147,18 +1724,18 @@
                 "to": {
                     "startLine": 252,
                     "startColumn": 4,
-                    "startOffset": 18316,
-                    "endColumn": 100,
-                    "endOffset": 18412
+                    "startOffset": 18392,
+                    "endColumn": 57,
+                    "endOffset": 18445
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 272,
+                        "startLine": 252,
                         "startColumn": 4,
-                        "startOffset": 20596,
-                        "endColumn": 100,
-                        "endOffset": 20692
+                        "startOffset": 18392,
+                        "endColumn": 57,
+                        "endOffset": 18445
                     }
                 }
             },
@@ -1166,468 +1743,20 @@
                 "to": {
                     "startLine": 253,
                     "startColumn": 4,
-                    "startOffset": 18417,
-                    "endColumn": 116,
-                    "endOffset": 18529
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 273,
-                        "startColumn": 4,
-                        "startOffset": 20697,
-                        "endColumn": 116,
-                        "endOffset": 20809
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 254,
-                    "startColumn": 4,
-                    "startOffset": 18534,
+                    "startOffset": 18450,
                     "endLine": 255,
                     "endColumn": 12,
-                    "endOffset": 18664
+                    "endOffset": 18639
                 },
                 "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
+                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 274,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 20814,
-                        "endLine": 275,
+                        "startOffset": 55,
+                        "endLine": 4,
                         "endColumn": 12,
-                        "endOffset": 20944
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 256,
-                    "startColumn": 4,
-                    "startOffset": 18669,
-                    "endLine": 257,
-                    "endColumn": 12,
-                    "endOffset": 18807
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 276,
-                        "startColumn": 4,
-                        "startOffset": 20949,
-                        "endLine": 277,
-                        "endColumn": 12,
-                        "endOffset": 21087
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 258,
-                    "startColumn": 4,
-                    "startOffset": 18812,
-                    "endLine": 259,
-                    "endColumn": 12,
-                    "endOffset": 18942
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 278,
-                        "startColumn": 4,
-                        "startOffset": 21092,
-                        "endLine": 279,
-                        "endColumn": 12,
-                        "endOffset": 21222
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 260,
-                    "startColumn": 4,
-                    "startOffset": 18947,
-                    "endLine": 261,
-                    "endColumn": 12,
-                    "endOffset": 19061
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 280,
-                        "startColumn": 4,
-                        "startOffset": 21227,
-                        "endLine": 281,
-                        "endColumn": 12,
-                        "endOffset": 21341
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 262,
-                    "startColumn": 4,
-                    "startOffset": 19066,
-                    "endLine": 265,
-                    "endColumn": 12,
-                    "endOffset": 19262
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 282,
-                        "startColumn": 4,
-                        "startOffset": 21346,
-                        "endLine": 285,
-                        "endColumn": 12,
-                        "endOffset": 21542
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 266,
-                    "startColumn": 4,
-                    "startOffset": 19267,
-                    "endLine": 267,
-                    "endColumn": 12,
-                    "endOffset": 19381
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 286,
-                        "startColumn": 4,
-                        "startOffset": 21547,
-                        "endLine": 287,
-                        "endColumn": 12,
-                        "endOffset": 21661
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 268,
-                    "startColumn": 4,
-                    "startOffset": 19386,
-                    "endColumn": 110,
-                    "endOffset": 19492
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 288,
-                        "startColumn": 4,
-                        "startOffset": 21666,
-                        "endColumn": 110,
-                        "endOffset": 21772
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 269,
-                    "startColumn": 4,
-                    "startOffset": 19497,
-                    "endColumn": 97,
-                    "endOffset": 19590
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 289,
-                        "startColumn": 4,
-                        "startOffset": 21777,
-                        "endColumn": 97,
-                        "endOffset": 21870
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 270,
-                    "startColumn": 4,
-                    "startOffset": 19595,
-                    "endLine": 271,
-                    "endColumn": 12,
-                    "endOffset": 19697
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 290,
-                        "startColumn": 4,
-                        "startOffset": 21875,
-                        "endLine": 291,
-                        "endColumn": 12,
-                        "endOffset": 21977
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 272,
-                    "startColumn": 4,
-                    "startOffset": 19702,
-                    "endLine": 275,
-                    "endColumn": 12,
-                    "endOffset": 19892
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 292,
-                        "startColumn": 4,
-                        "startOffset": 21982,
-                        "endLine": 295,
-                        "endColumn": 12,
-                        "endOffset": 22172
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 276,
-                    "startColumn": 4,
-                    "startOffset": 19897,
-                    "endLine": 277,
-                    "endColumn": 12,
-                    "endOffset": 20003
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 296,
-                        "startColumn": 4,
-                        "startOffset": 22177,
-                        "endLine": 297,
-                        "endColumn": 12,
-                        "endOffset": 22283
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 278,
-                    "startColumn": 4,
-                    "startOffset": 20008,
-                    "endLine": 279,
-                    "endColumn": 12,
-                    "endOffset": 20136
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 298,
-                        "startColumn": 4,
-                        "startOffset": 22288,
-                        "endLine": 299,
-                        "endColumn": 12,
-                        "endOffset": 22416
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 280,
-                    "startColumn": 4,
-                    "startOffset": 20141,
-                    "endColumn": 94,
-                    "endOffset": 20231
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 300,
-                        "startColumn": 4,
-                        "startOffset": 22421,
-                        "endColumn": 94,
-                        "endOffset": 22511
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 281,
-                    "startColumn": 4,
-                    "startOffset": 20236,
-                    "endColumn": 90,
-                    "endOffset": 20322
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 301,
-                        "startColumn": 4,
-                        "startOffset": 22516,
-                        "endColumn": 90,
-                        "endOffset": 22602
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 282,
-                    "startColumn": 4,
-                    "startOffset": 20327,
-                    "endLine": 286,
-                    "endColumn": 12,
-                    "endOffset": 20631
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 302,
-                        "startColumn": 4,
-                        "startOffset": 22607,
-                        "endLine": 306,
-                        "endColumn": 12,
-                        "endOffset": 22911
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 287,
-                    "startColumn": 4,
-                    "startOffset": 20636,
-                    "endColumn": 112,
-                    "endOffset": 20744
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 307,
-                        "startColumn": 4,
-                        "startOffset": 22916,
-                        "endColumn": 112,
-                        "endOffset": 23024
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 288,
-                    "startColumn": 4,
-                    "startOffset": 20749,
-                    "endColumn": 116,
-                    "endOffset": 20861
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 308,
-                        "startColumn": 4,
-                        "startOffset": 23029,
-                        "endColumn": 116,
-                        "endOffset": 23141
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 289,
-                    "startColumn": 4,
-                    "startOffset": 20866,
-                    "endLine": 290,
-                    "endColumn": 12,
-                    "endOffset": 21000
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 309,
-                        "startColumn": 4,
-                        "startOffset": 23146,
-                        "endLine": 310,
-                        "endColumn": 12,
-                        "endOffset": 23280
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 291,
-                    "startColumn": 4,
-                    "startOffset": 21005,
-                    "endLine": 294,
-                    "endColumn": 12,
-                    "endOffset": 21196
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 313,
-                        "startColumn": 4,
-                        "startOffset": 23511,
-                        "endLine": 316,
-                        "endColumn": 12,
-                        "endOffset": 23702
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 295,
-                    "startColumn": 4,
-                    "startOffset": 21201,
-                    "endLine": 298,
-                    "endColumn": 12,
-                    "endOffset": 21406
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 317,
-                        "startColumn": 4,
-                        "startOffset": 23707,
-                        "endLine": 320,
-                        "endColumn": 12,
-                        "endOffset": 23912
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 299,
-                    "startColumn": 4,
-                    "startOffset": 21411,
-                    "endLine": 302,
-                    "endColumn": 12,
-                    "endOffset": 21614
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 321,
-                        "startColumn": 4,
-                        "startOffset": 23917,
-                        "endLine": 324,
-                        "endColumn": 12,
-                        "endOffset": 24120
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 303,
-                    "startColumn": 4,
-                    "startOffset": 21619,
-                    "endLine": 306,
-                    "endColumn": 12,
-                    "endOffset": 21836
-                },
-                "from": {
-                    "file": "/home/abc/AndroidStudioProjects/xyz-reader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-v21/values.xml",
-                    "position": {
-                        "startLine": 325,
-                        "startColumn": 4,
-                        "startOffset": 24125,
-                        "endLine": 328,
-                        "endColumn": 12,
-                        "endOffset": 24342
+                        "endOffset": 244
                     }
                 }
             }
